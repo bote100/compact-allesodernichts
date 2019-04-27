@@ -1,0 +1,7 @@
+name: AON
+author: bote100
+version: 1.0
+main: net.bote.allesodernichts.AllesOderNichts
+
+commands:
+  allesodernichts:
